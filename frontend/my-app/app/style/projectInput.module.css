@@ -1,0 +1,19 @@
+.projectInput {
+    background-color: #181818;
+
+    width: 100%;
+
+    padding: .5rem;
+
+    transition: all;
+    transition-duration: 2000ms;
+
+    outline: none;
+
+    box-shadow: #8F94CC 0px 1px 5px;
+}
+
+.projectInput::placeholder {
+    color: #8F94CC;
+    opacity: .6;
+}
